@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on alabs.team
+- 🔭  I’m currently working on @alabs.team
 - 🌱  I’m currently learning c++
 - 👯  I’m looking to collaborate on share knowledge
 - 💬  Ask me about JavaScript and ⚽
