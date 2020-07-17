@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on alabs.team
-- 🌱 I’m currently learning c++
-- 👯 I’m looking to collaborate on share knowledge
-- 💬 Ask me about JavaScript and ⚽
-- 📫 How to reach me: arda.tileu@gmail.com & [Telegram](https://t.me/ardak_tileu)
-- ⚡ Fun fact: I know how to play football as a forward player
+- 🔭  I’m currently working on alabs.team
+- 🌱  I’m currently learning c++
+- 👯  I’m looking to collaborate on share knowledge
+- 💬  Ask me about JavaScript and ⚽
+- 📫  How to reach me: arda.tileu@gmail.com & [Telegram](https://t.me/ardak_tileu)
+- ⚡   Fun fact: I know how to play football as a forward player
 
 <!--
 **ardakkk/ardakkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
