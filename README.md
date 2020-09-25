@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="justify">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardakkk&show_icons=true" alt="Akashdeep's GitHub stats"></img>
+</p>
