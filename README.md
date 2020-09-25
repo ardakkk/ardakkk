@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardakkk&show_icons=true" alt="Akashdeep's GitHub stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=ardakkk&show_icons=true" alt="Ardak's GitHub stats"></img>
 </p>
