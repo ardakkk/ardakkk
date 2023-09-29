@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently working on mediamonks
-- 🌱  I’m currently learning c++
+- 🌱  I’m currently learning Algoriths and Data Structure
 - 👯  I’m looking to collaborate on share knowledge
 - 💬  Ask me about JavaScript and ⚽
 - 📫  How to reach me: arda.tileu@gmail.com & [Telegram](https://t.me/ardak_tileu)
